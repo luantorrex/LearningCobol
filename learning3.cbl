@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. learning2.
+       PROGRAM-ID. learning3.
       ********************************************************
       *    Catching variables from system
       * *******************************************************
